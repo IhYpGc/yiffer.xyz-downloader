@@ -1,7 +1,7 @@
 # Yiffer.XYZ Downloader
 A yiffer.xyz comic downloader that has a queue support.
 
-* Please consider donating to yiffer.xyz at yiffer.xyz/donate
+* (Please consider donating to yiffer.xyz)[yiffer.xyz/donate]
 ## Getting Started
 It's as simple as just running a python file, but if you don't know how to do that, this not-so-fancy guide will help you.
 
