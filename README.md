@@ -14,7 +14,7 @@ Step 2: Installation
 ```
 Run install.bat and that's it.
 ```
-## USAGE
+## Usage
 ```
 Run run.bat then you'll see a prompt where you can input. If you want to download a comic, just enter the URL of the comic.
 If you want to download multiple comics, put a ", " between them.
