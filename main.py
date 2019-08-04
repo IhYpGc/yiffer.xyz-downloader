@@ -43,3 +43,5 @@ if INDEX_URL in websiteURL:
                 else:
                     print("[Done Downloading]: " + i)
                     A_02B = False
+        else:
+            print("[Directory exists]: " + DirectoryPath)
