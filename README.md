@@ -1,3 +1,5 @@
+[![Github All Releases](https://img.shields.io/github/downloads/IhYpGc/yiffer.xyz-downloader/total.svg)](https://github.com/IhYpGc/yiffer.xyz-downloader/releases/latest)
+
 # Yiffer.XYZ Downloader
 A yiffer.xyz comic downloader that (probably still) has a queue support.
 
