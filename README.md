@@ -1,5 +1,11 @@
 # Yiffer.XYZ Downloader
-A yiffer.xyz comic downloader that has a queue support.
+A yiffer.xyz comic downloader that (probably still) has a queue support.
+
+This fork compresses the images into a .CBZ (a renamed .zip) for use with [CDisplay Ex](https://www.cdisplayex.com/)
+
+Props to [JSMNN](https://github.com/JSMNN/yiffer.xyz-downloader) for the majority of the code.
+
+All I did was smash the keyboard until it did what I wanted
 
 * [Please consider donating to yiffer.xyz](https://yiffer.xyz/donate)
 ## Getting Started
